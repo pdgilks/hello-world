@@ -1,2 +1,3 @@
 # hello-world
-trying this out
+trying this thing out
+my name is Peter
